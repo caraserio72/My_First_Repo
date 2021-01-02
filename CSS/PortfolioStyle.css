@@ -1,6 +1,7 @@
 body{
     font-family: 'Barlow', sans-serif;
-    color: #686565;
+    background-color: #B4B1B1;
+    color: #ffffff;
 }
 h1{
     font-size: 36px;
@@ -88,6 +89,11 @@ ul{
 }
 .Nav-Card{
     width: 30%;
+    height:125px;
+    border: 2px solid red;
+}
+.Nav-Card-2{
+    width: 65%;
     height:125px;
     border: 2px solid red;
 }
