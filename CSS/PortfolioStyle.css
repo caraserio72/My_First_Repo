@@ -90,11 +90,19 @@ ul{
 .Nav-Card{
     width: 30%;
     height:125px;
+    background-color: #062559;
+    color: #ffffff;
+    text-align:left;
+    padding: 5px 5px 5px 5px;
     border: 2px solid red;
 }
 .Nav-Card-2{
     width: 65%;
     height:125px;
+    background-color: #062559;
+    color: #ffffff;
+    text-align:left;
+    padding: 5px 5px 5px 5px;
     border: 2px solid red;
 }
 footer{
